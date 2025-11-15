@@ -1,7 +1,2 @@
 google-adk
 python-dotenv
-
-google-cloud-storage
-google-cloud-firestore
-fastapi
-uvicorn
